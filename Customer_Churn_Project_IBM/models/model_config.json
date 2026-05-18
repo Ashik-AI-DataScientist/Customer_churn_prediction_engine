@@ -1,0 +1,26 @@
+{
+  "best_model": "gradient_boosting",
+  "threshold": 0.30000000000000004,
+  "recall_churned": 0.7459893048128342,
+  "precision": 0.5481335952848723,
+  "f1_score": 0.6319365798414497,
+  "auc_roc": 0.8406817535973546,
+  "numeric_features": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "service_count",
+    "charge_per_tenure",
+    "SeniorCitizen"
+  ],
+  "cat_features": [
+    "Contract",
+    "PaymentMethod",
+    "InternetService",
+    "OnlineSecurity",
+    "TechSupport",
+    "PaperlessBilling",
+    "Partner",
+    "Dependents"
+  ]
+}

@@ -1,0 +1,4 @@
+Scenario,Intervention,Customers Contacted,Customers Retained,Retention Rate,Cost per Customer (₹),Total Campaign Cost (₹L),Monthly Revenue Saved (₹L),Annual Revenue Saved (₹L),Net Annual Saving (₹L),ROI (%)
+Conservative,Personalised outreach (email + call),1394,278,0.2,100,1.394,17.280066458266454,207.36079749919747,205.96679749919747,14775.236549440277
+Moderate,₹150/month discount for 3 months,1394,557,0.4,450,6.273,34.622291428972716,415.46749714767265,409.1944971476726,6523.106920893872
+Aggressive,Premium tier upgrade (one-time),1394,836,0.6,500,6.97,51.96451639967898,623.5741967961477,616.6041967961478,8846.545147720914
