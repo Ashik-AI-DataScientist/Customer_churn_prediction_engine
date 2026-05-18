@@ -143,4 +143,4 @@ Run notebooks in order (01 → 05). Each saves outputs used by the next.
 
 ---
 
-*Report: Available as pdf in report
+*Report: Available as pdf in report Customer_Churn_Project_IBM/Project Report/Telecom_Churn_Upgraded_Enterprise_Report.pdf
