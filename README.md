@@ -144,3 +144,4 @@ Run notebooks in order (01 → 05). Each saves outputs used by the next.
 ---
 
 *Report: Available as pdf in report Customer_Churn_Project_IBM/Project Report/Telecom_Churn_Upgraded_Enterprise_Report.pdf
+https://github.com/Ashik-AI-DataScientist/Customer_churn_prediction_engine/blob/main/Customer_Churn_Project_IBM/Project%20Report/Telecom_Churn_Upgraded_Enterprise_Report.pdf
